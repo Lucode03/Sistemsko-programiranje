@@ -1,0 +1,28 @@
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.exe
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.deps.json
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.runtimeconfig.json
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.dll
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.pdb
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.AssemblyInfoInputs.cache
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.AssemblyInfo.cs
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.csproj.CoreCompileInputs.cache
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.dll
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\refint\Projekat1_Zadatak7.dll
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.pdb
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.genruntimeconfig.cache
+C:\Podaci\Fakultet\Semestar_VI\Sistemsko programiranje\Projekti\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\ref\Projekat1_Zadatak7.dll
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.exe
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.deps.json
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.runtimeconfig.json
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.dll
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\bin\Debug\net8.0\Projekat1_Zadatak7.pdb
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.AssemblyInfo.cs
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.dll
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\refint\Projekat1_Zadatak7.dll
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.pdb
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\Projekat1_Zadatak7.genruntimeconfig.cache
+C:\Users\Luka\Desktop\fakultet\Projekat1_Zadatak7\Projekat1_Zadatak7\obj\Debug\net8.0\ref\Projekat1_Zadatak7.dll
