@@ -91,7 +91,7 @@ namespace Server1
             string nazivFajla = context.Request.Url.AbsolutePath.TrimStart('/');
             if (nazivFajla == "favicon.ico")
             {
-                PosaljiOdgovor(context, 204, ""); // 204 No Content
+                PosaljiOdgovor(context, 204, "No Content");
                 return;
             }
             Console.WriteLine($"[LOG] Zahtev primljen: {nazivFajla} | Vreme: {DateTime.Now}");
