@@ -97,7 +97,7 @@ namespace Server1
             Console.WriteLine($"[LOG] Zahtev primljen: {nazivFajla} | Vreme: {DateTime.Now}");
             if (string.IsNullOrWhiteSpace(nazivFajla))
             {
-                Console.WriteLine("[GRESKA] Lose postavljen naziv fajla.");
+                Console.WriteLine("[GRESKA] Lose postavljen zahtev.");
                 PosaljiOdgovor(context, 400, "Bad Request.");
                 return;
             }
