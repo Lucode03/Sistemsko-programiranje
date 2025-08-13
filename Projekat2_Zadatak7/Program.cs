@@ -14,7 +14,7 @@ class Program
 
         //TestiranjeKesa.Testiraj();
 
-        ThreadPool.SetMinThreads(10, 5);
+        //ThreadPool.SetMinThreads(10, 5);
 
         string rootFolder = Path.Combine(Directory.GetCurrentDirectory(), "Images");
         string urlPrefix = "http://localhost:5050/";
