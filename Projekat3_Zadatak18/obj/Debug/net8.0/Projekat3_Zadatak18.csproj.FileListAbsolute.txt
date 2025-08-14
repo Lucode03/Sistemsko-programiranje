@@ -1,0 +1,17 @@
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\Projekat3_Zadatak18.exe
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\Projekat3_Zadatak18.deps.json
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\Projekat3_Zadatak18.runtimeconfig.json
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\Projekat3_Zadatak18.dll
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\Projekat3_Zadatak18.pdb
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.AssemblyInfo.cs
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat.D584596C.Up2Date
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.dll
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\refint\Projekat3_Zadatak18.dll
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.pdb
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\Projekat3_Zadatak18.genruntimeconfig.cache
+C:\Users\Luka\Desktop\fakultet\Projekat3_Zadatak18\obj\Debug\net8.0\ref\Projekat3_Zadatak18.dll

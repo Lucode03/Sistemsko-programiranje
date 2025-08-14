@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/HaVRIlsa4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka\\Desktop\\fakultet\\Projekat3_Zadatak18\\Projekat3_Zadatak18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
